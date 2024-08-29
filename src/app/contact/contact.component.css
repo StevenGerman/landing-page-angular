@@ -1,0 +1,13 @@
+.container-md{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 8px solid #f8f8f8; */
+}
+form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    border: 2px solid #f2f2f2;
+}
